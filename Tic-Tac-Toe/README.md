@@ -11,3 +11,14 @@ play against itself and a graphical user interface where you can play against yo
 
 To play, please open the url in browser: 
 http://www.codeskulptor.org/#user43_RrMfeDGEsf_3.py
+
+
+# Mini-max Tic-Tac-Toe Player
+
+An alternative strategy to play the game. 
+This machine player for Tic-Tac-Toe uses a Minimax strategy to decide its next move. 
+Although the game is played on a 3 X 3 grid, your should be able to assign any square grid.
+However, the time it will take to search the tree for larger grid sizes will be prohibitively slow.
+
+To play, please open the url in browser: 
+http://www.codeskulptor.org/#user43_K31RyONihc_1.py
